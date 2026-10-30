@@ -23,7 +23,7 @@ I am an enthusiastic Junior Software Developer with hands-on IT placement experi
   <a href="mailto:albertogarma236@gmail.com">
     <img src="https://img.shields.io/badge/Email-albertogarma236%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="TU_ENLACE_DE_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/alberto-garcia-martinez-663183355">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
